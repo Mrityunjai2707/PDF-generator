@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to this comprehensive guide on generating dynamic PDFs using React and Node.js. This tutorial is based on the informative article available on [Medium](https://medium.freecodecamp.org/how-to-generate-dynamic-pdfs-using-react-and-nodejs-eac9e9cb4dde). By following along, you'll gain practical insights into creating PDFs dynamically, leveraging HTML code as a template.
+Welcome to this comprehensive guide on generating dynamic PDFs using React and Node.js. By following along, you'll gain practical insights into creating PDFs dynamically, leveraging HTML code as a template.
 
 ## Project Setup
 
